@@ -1,5 +1,4 @@
-# Object file
-*.o
+# Dependencies
+node_modules
 
-# Ada Library Information
-*.ali
+# Generated files
